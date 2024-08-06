@@ -1,3 +1,3 @@
-Implement user authentication (cookie-based?) and user RBAC flow using dependency injection. 
+~~Implement user authentication (cookie-based?) and user RBAC flow using dependency injection.~~
 
-Write tests with relevant fixtures. 
+Pending: Write tests with relevant fixtures. 
